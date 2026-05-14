@@ -1,3 +1,11 @@
+# NOTE: This fork is no longer maintained, and a proper 'usagi-nix' will be made and linked to here eventually.
+
+Brett has good reasons for not wanting to merge Nix in, and I respect them, and will develop Nix support separately to Usagi. Thank you regardless to Brett for giving me the experience of contributing to a larger-ish project and back-and-forth with contributors. I'll be taking this experience going forward and may possibly contribute more relevant things to Usagi, as I do really like how it works and believe it has amazing potential.
+
+This fork is retained for the sake of posterity.
+
+-----
+
 <img alt="Usagi Logo: pixel art bunny, Usagi Engine - Rapid 2D Prototyping" src="/website/card-logo.png" />
 
 # Usagi - Simple 2D Game Engine for Rapid Prototyping
